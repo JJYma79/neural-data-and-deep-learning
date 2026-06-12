@@ -1,21 +1,10 @@
-# Neural Data and Deep Learning
+# Neural Data Analysis
 
-This repository contains personal practice projects in neural data analysis, machine learning, and deep learning.
+This folder contains projects focused on neural signal processing.
 
-### Neural Data Processing
+## Contents
 
-- Reading and organizing neural/behavioural recording datasets
-- Signal preprocessing and data cleaning
-- Data visualization and exploratory analysis
-- Neural data pipeline development
-
-### Machine Learning and Deep Learning
-
-- Multi-Layer Perceptron (MLP) training
-- Convolutional Neural Network (CNN) training
-- Model evaluation and performance comparison
-
-### Generative Models
-
-- Generative Adversarial Networks (GANs)
-- Basic image generation experiments using MNIST datasets
+- Neural data loading and preprocessing
+- Behavioral label extraction
+- Signal analysis
+- Data visualization

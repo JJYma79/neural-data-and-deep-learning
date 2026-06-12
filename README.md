@@ -1,21 +1,17 @@
 # Neural Data and Deep Learning
 
-This repository contains personal practice projects in neural data analysis, machine learning, and deep learning.
+This repository contains personal projects and practice notebooks in neural data analysis, machine learning, and deep learning.
 
-### Neural Data Processing
+## Contents
 
-- Reading and organizing neural/behavioural recording datasets
-- Signal preprocessing and data cleaning
-- Data visualization and exploratory analysis
-- Neural data pipeline development
+### Allen
 
-### Machine Learning and Deep Learning
+Projects based on publicly available SLAP2 datasets and community-driven research initiatives.
 
-- Multi-Layer Perceptron (MLP) training
-- Convolutional Neural Network (CNN) training
-- Model evaluation and performance comparison
+### Neural Data Analysis
 
-### Generative Models
+Neural signal processing, behavioral decoding, and computational neuroscience workflows.
 
-- Generative Adversarial Networks (GANs)
-- Basic image generation experiments using MNIST datasets
+### Deep Learning
+
+Implementation and training of neural networks, including MLPs, ResNet1d, and generative models.
